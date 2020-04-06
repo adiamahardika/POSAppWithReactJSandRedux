@@ -54,7 +54,7 @@ git clone https://github.com/adiamahardika/POSAppWithReactJSandRedux.git
 [`Backend-Point-Of-Sales`](https://github.com/adiamahardika/Backend-Point-Of-Sales)
 
 ## Visit The Web
-You can visit the web [`here`](http://totalin.s3-website-us-east-1.amazonaws.com/g)
+You can visit the web [`here`](http://themahardikafnb.s3-website-us-east-1.amazonaws.com/login)
 
 ## Contributors
 [Adia Mahardika](https://github.com/adiamahardika/)
